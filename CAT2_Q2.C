@@ -1,3 +1,7 @@
+/*
+Name : George Waweru Muriuki
+Reg No :CT101/G/23698/24
+*/
 #include <stdio.h>
 int main() {
 	int a, b ;
